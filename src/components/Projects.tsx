@@ -13,7 +13,7 @@ const Projects = () => {
       src: buzztalk,
       name: "BuzzTalk",
       description:
-        "A social media platform like where users can interact with each other by post and conversations.",
+        "A social media platform where users can interact with each other by post and conversations.",
       gitLink: "https://github.com/Sajjad314/DiveIN",
     },
     {
@@ -51,7 +51,7 @@ const Projects = () => {
       src: grpc,
       name: "Multiclient server",
       description:
-        "A multiclient-server in gRPC where multiple client can register and login to a server",
+        "A multiclient-server in gRPC where multiple client can register and login to the server",
       gitLink: "https://github.com/Sajjad314/MultiClient",
     },
   ];

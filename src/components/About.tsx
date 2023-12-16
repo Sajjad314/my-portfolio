@@ -27,7 +27,7 @@ const About = () => {
             During my academic years I've participated in many competetive
             programming contest. Also I have earned Gold Badge in problem
             solving at HackerRank. Beside web development and competetive
-            programming i have also done some projects is Android development
+            programming I have also done some projects in Android development
             and game development.
             <br />
             Currently I'm collaborating with Bengali AI where I am working in

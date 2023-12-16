@@ -13,9 +13,7 @@ function App() {
       <Navbar />
       <Home />
       <About />
-
       <Projects />
-
       <SkillStack />
       <Experience />
       <Contact />
